@@ -1,0 +1,23 @@
+internal/gitnotes/notes_sync_bg.go
+  s_3a4f6f532b0377::t_5dba8078f1019e 16,43-44,90,99,114,126-143,147
+internal/gitnotes/notes_sync_bg_test.go
+  s_3a4f6f532b0377::t_01568795c880ec 197-204
+  s_3a4f6f532b0377::t_5dba8078f1019e 133,160,188-196,205-258
+  s_3a4f6f532b0377::t_7db3d139f2faba 259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f1d754a1938004affd7f674cc1402c3c15a91bda",
+  "prompts": {},
+  "sessions": {
+    "s_3a4f6f532b0377": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b0c8cfd-dcaa-42cd-9afc-8ab6a348ff12",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "AktasMuhammet <aktas.muhammet@outlook.com>"
+    }
+  }
+}
