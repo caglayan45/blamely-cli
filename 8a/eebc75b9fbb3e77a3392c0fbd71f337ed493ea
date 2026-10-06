@@ -1,0 +1,33 @@
+internal/filelock/filelock_unix.go
+  s_3a4f6f532b0377::t_aeb29c8ce7832e 1-32
+internal/daemon/singleinstance_unix.go
+  s_3a4f6f532b0377::t_aeb29c8ce7832e 7-8,22
+internal/gitnotes/notes_sync_bg.go
+  s_3a4f6f532b0377::t_cc41e2ded89976 15,34-38,44-47,123-124,132-133,136-137
+internal/filelock/filelock_windows.go
+  s_3a4f6f532b0377::t_aeb29c8ce7832e 1-39
+internal/daemon/singleinstance_windows.go
+  s_3a4f6f532b0377::t_aeb29c8ce7832e 8,20
+internal/gitnotes/notes_sync_bg_test.go
+  s_3a4f6f532b0377::t_6eb3cd51a3b3ae 161-164,188-199
+  s_3a4f6f532b0377::t_cc41e2ded89976 6,14-15,114-115,132-143,154,156-159,165-166,169,172-180,183,200
+  s_3a4f6f532b0377::t_d244a31d9ffb3b 201
+internal/filelock/doc.go
+  s_3a4f6f532b0377::t_aeb29c8ce7832e 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8aeebc75b9fbb3e77a3392c0fbd71f337ed493ea",
+  "prompts": {},
+  "sessions": {
+    "s_3a4f6f532b0377": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b0c8cfd-dcaa-42cd-9afc-8ab6a348ff12",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "AktasMuhammet <aktas.muhammet@outlook.com>"
+    }
+  }
+}
