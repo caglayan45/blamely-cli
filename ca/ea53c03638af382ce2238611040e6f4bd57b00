@@ -1,0 +1,24 @@
+internal/authorship/align_test.go
+  s_3a4f6f532b0377::t_cdc1acd4877c8e 7,60-98,108,161-181,185-186,189-198,201-241
+  s_3a4f6f532b0377::t_1d45825f160fd2 182-184,187-188,199-200
+internal/authorship/attribute.go
+  s_3a4f6f532b0377::t_fe40149ab8a1c7 229-238,289,295,333-410
+  s_3a4f6f532b0377::t_476925cbfedf45 6
+  s_3a4f6f532b0377::t_31d1b26e43418e 411
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "caea53c03638af382ce2238611040e6f4bd57b00",
+  "prompts": {},
+  "sessions": {
+    "s_3a4f6f532b0377": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b0c8cfd-dcaa-42cd-9afc-8ab6a348ff12",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "AktasMuhammet <aktas.muhammet@outlook.com>"
+    }
+  }
+}
