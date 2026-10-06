@@ -1,0 +1,21 @@
+internal/daemon/copilot_dedupe.go
+  s_3a4f6f532b0377::t_25cf18f4054872 6-7,30-36,51-54,67-69,84-98,101-126,129-136,138,141
+internal/daemon/copilot_dedupe_test.go
+  s_3a4f6f532b0377::t_51ed6b79aaefaa 4,14-18,39,52,145-226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "acff77584b41fadbd6d5e684787e92f1f244c32a",
+  "prompts": {},
+  "sessions": {
+    "s_3a4f6f532b0377": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b0c8cfd-dcaa-42cd-9afc-8ab6a348ff12",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "AktasMuhammet <aktas.muhammet@outlook.com>"
+    }
+  }
+}
