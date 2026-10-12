@@ -1,0 +1,72 @@
+internal/gitutil/rel.go
+  s_1255c4883bc491::t_f21eced495b249 1-113,115-164
+  s_1255c4883bc491::t_30e3b8f9e8e577 114
+internal/tools/copilot_chat.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 652-653
+internal/tools/gemini.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 78-79
+internal/tools/devin_ide.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 374-375
+CHANGELOG.md
+  s_1255c4883bc491::t_c709c04baff7b8 5-10
+internal/tools/cursor_transcript_ops.go
+  s_1255c4883bc491::t_bf8d94b9256ade 187
+  s_1255c4883bc491::t_2c99de489d330c 6
+internal/gitutil/locate_test.go
+  s_1255c4883bc491::t_30e3b8f9e8e577 47
+  s_1255c4883bc491::t_00ae89e93d5db1 48
+internal/tools/codex.go
+  s_1255c4883bc491::t_bf8d94b9256ade 786-789
+  s_1255c4883bc491::t_d4eac3ca6fecb4 410-411,850-851
+internal/tools/devin.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 117-118
+internal/report/blame.go
+  s_1255c4883bc491::t_bf8d94b9256ade 129-131,133,135,137-139
+  s_1255c4883bc491::t_9cf9a9699448ca 16
+internal/gitutil/repoid.go
+  s_1255c4883bc491::t_30e3b8f9e8e577 114,143-154
+  s_1255c4883bc491::t_4432dd26c1352c 96-104,115-116,118,120,123-124,126-127,136-138
+  s_1255c4883bc491::t_9f22754179f3b4 155-156
+internal/authorship/capture_alias_test.go
+  s_1255c4883bc491::t_c709c04baff7b8 1-52
+internal/tools/antigravity_chat.go
+  s_1255c4883bc491::t_bf8d94b9256ade 496-497
+  s_1255c4883bc491::t_d4eac3ca6fecb4 332-333,433-434
+internal/tools/copilot_log.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 338-339
+internal/tools/cursorlog.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 320-321,654-655
+internal/tools/copilot_record.go
+  s_1255c4883bc491::t_bd5b4f5f228737 121-123,125
+  s_1255c4883bc491::t_d4eac3ca6fecb4 126
+internal/tools/copilot_transcript.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 557
+  s_1255c4883bc491::t_bf8d94b9256ade 401-402,596-597
+internal/authorship/capture.go
+  s_1255c4883bc491::t_bf8d94b9256ade 55-59
+internal/gitutil/rel_test.go
+  s_1255c4883bc491::t_00ae89e93d5db1 1-125
+internal/tools/claude.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 197-198
+  s_1255c4883bc491::t_bf8d94b9256ade 430-433
+internal/gitnotes/attribute.go
+  s_1255c4883bc491::t_bf8d94b9256ade 471
+internal/tools/codex_record.go
+  s_1255c4883bc491::t_d4eac3ca6fecb4 97-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "765af9fe59362279257a6d486fe808c53a220ae7",
+  "prompts": {},
+  "sessions": {
+    "s_1255c4883bc491": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5febcf18-8835-4c86-8dc3-088caec61964",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "AktasMuhammet <aktas.muhammet@outlook.com>"
+    }
+  }
+}
